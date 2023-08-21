@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I?
+My name is Noah Anderson, and I am a fullstack software engineer with experience developing web applications from the ground up as well as adding full-fledged features to existing projects within an XP environment. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+The languages I am most familiar with are Java and TypeScript, but that's not all I'll be posting about! Aside from posting about techinical topics, you will find blog posts about the soft skills side of our profession as well ranging from how to work in a team, communicate openly and honestly, and the pitfalls some teams/companies fall into and how to come out of them.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tyler153@gmail.com](mailto:tyler153@gmail.com)
