@@ -33,7 +33,7 @@ Once we are on the same page as the people we work with in terms of getting the 
 
 Management can be the cause of many frustrations and be the source of distrust within a company. Getting past these issues and preventing them from creeping back up is not as simple as just swapping in and out managers, and that should **not** be considered an option unless the situation is absolutely beyond repair. At that point, there are no changes a team can make to improve the dynamic with management. 
 
-Aside from that scenario, the first step to feeling safe with being brutally honest with management is to complete the **team dynamics** section. Without the support of our team, our efforts to change the dyanmic with management will be fruitless and frustrating to say the least. 
+Aside from that scenario, the first step to feeling safe with being brutally honest with management is to complete the **team dynamics** section. Without the support of our team, our efforts to change the dynamic with management will be fruitless and frustrating to say the least. 
 
 Once we have the support of the team, we need to learn how to approach management with problems. Everyone has a different style of communication and that means we need to learn how to use and understand a person's style of communication to be effective when speaking to them. Some people prefer bluntness, which should make being brutally honest with them extremely simple, but many people don't prefer to communicate this way. We cannot jump out the gate being extremely blunt with most people or we will come across as rude and brash. Instead, we, as a team, will need to take being brutally honest slow by gradually increasing our bluntness so they come to accept and appreciate it.
 
