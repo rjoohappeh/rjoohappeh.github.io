@@ -1,0 +1,17 @@
+# The Importance of Knowing Your Audience
+
+I've been learning a bit of 2d game development with Unity lately, and I started learning from a youtube series that taught and explained the basics of how to create a simple platformer. Since finishing that video series, I've been able to expand the game and add new features because I was able to understand the content of the video series pretty well. The video series is successful and has millions of combined views across all the videos because the creator knew his audience and created the content catering specifically to that audience. If he had skipped over the basics and assumed the viewers knew what he was talking about, there is no doubt in my mind that the series would be much less successful and viewed.
+
+## Why Know Your Audience?
+
+Imagine you are going to present a topic in your career field to three different groups of people: colleagues, friends, and children. You can't approach each presentation the same way. If you do, then at least one, but possibly all three, of the groups will not understand the presentation and wouldn't attend another one. 
+
+When presenting to your colleagues, you can take a more specific approach since they will likely already have some understanding of the topic at hand. You can be more detailed and ask more specific questions, and they will likely be able to understand and gain meaningful information from your presentation. For example, if I were to explain an if statement to my colleagues, I could simply say, "if a boolean condition is true, then one or more statement will be executed."
+
+When presenting to your friends, assuming they are not also your colleagues, you will have to take a more generic approach, but still include some specifics. You may need to use real life analogies here and there to successfully explain the topic, but you don't have to simplify the topic to the extreme. You will have to find some type of way to make the topic more relatable to them, their lives, or their work to make it worthwhile and meaningful for them to pay attention throughout. To explain an if statement to a friend I could say, "If you're driving and the light is red, you stop the car."
+
+When presenting to children, depending on age, you will usually have to simply the topic to the extreme and include no specifics about the topic. For them to fully understand and be interested, it has to be interesting, fun, or relatable to their lives. Therefore, you'd need to use analogies related to their life that are fun, interesting, and clear for nearly every detail of the topic. To explain an if statement to a child I could ask them what their favorite food is, then use their answer in the analogy. For example, if their favorite food is pizza I could say, "If your parents say you can have pizza for dinner, then you get to eat pizza for dinner."
+
+## Conclusion
+
+Knowing your audience is the most important part of creating a presentation, crafting a marketing strategy, or just having a conversation with a friend or colleague. It's a part of every day life, and it allows you to change the presentation of information to a format that gives your audience the highest chance of being able to understand the content. This is especially important in the workplace, because, to communicate effectively across different levels of an organization, you need to know the level of detail required to successfully get your information across.
