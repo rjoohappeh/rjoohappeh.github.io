@@ -1,4 +1,4 @@
-# The Importance of Knowing Your Audience
+# Introduction
 
 I've been learning a bit of 2d game development with Unity lately, and I started learning from a youtube series that taught and explained the basics of how to create a simple platformer. Since finishing that video series, I've been able to expand the game and add new features because I was able to understand the content of the video series pretty well. The video series is successful and has millions of combined views across all the videos because the creator knew his audience and created the content catering specifically to that audience. If he had skipped over the basics and assumed the viewers knew what he was talking about, there is no doubt in my mind that the series would be much less successful and viewed.
 
